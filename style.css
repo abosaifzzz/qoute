@@ -1,0 +1,43 @@
+
+@font-face {
+    font-family: im;
+    src: url();
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+h1{
+font-family: Impact;   
+font-size: 80px;
+margin-bottom: 35px;
+
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.qoute{
+    color: white;
+    font-size: 14px;
+width: 250px;
+height: 80px;
+background-color: blue;
+
+}
+.qoute:hover{
+    background-color: green;
+}
+.qoute-body{
+    width: 900px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+}
